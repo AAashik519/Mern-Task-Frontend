@@ -1,5 +1,5 @@
 'use client'
-import Counter from './Counter';
+import Counter from './counter';
 import { motion } from 'framer-motion'
 import Image from 'next/image'
 import bmw from '../../public/bmw.jpeg'
